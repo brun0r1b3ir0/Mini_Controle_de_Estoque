@@ -6,7 +6,7 @@ Sistema desktop em Java (Swing) para controlar o estoque de uma loja. Permite ca
 
 | Item | Versão | Observação |
 |---|---|---|
-| JDK | 27 | Obrigatório. O `pom.xml` compila para o Java 27. |
+| JDK | 25 | Obrigatório. O `pom.xml` compila para o Java 25. |
 | Maven | 3.x | Opcional. Só é necessário para compilar pela linha de comando com `mvn`. |
 | IDE | IntelliJ IDEA ou NetBeans | Opcional. Necessária apenas para editar as telas no editor visual (arquivos `.form`). |
 
@@ -19,7 +19,7 @@ A classe principal é `org.example.Main`. Ela abre a tela principal do sistema.
 ### Pela IDE
 
 1. Abra a pasta do projeto no IntelliJ IDEA ou no NetBeans (ela é reconhecida como projeto Maven).
-2. Configure o JDK 27 como SDK do projeto.
+2. Configure o JDK 25 como SDK do projeto.
 3. Execute a classe `src/main/java/org/example/Main.java`.
 
 ### Pela linha de comando, sem Maven
@@ -67,7 +67,7 @@ O sistema já inicia com alguns dados de exemplo (2 categorias, 2 fornecedores e
 
 ```
 Mini_Controle_de_Estoque/
-├── pom.xml                         Configuração do Maven (Java 27, UTF-8)
+├── pom.xml                         Configuração do Maven (Java 25, UTF-8)
 ├── DIVISAO_DE_TAREFAS.md           Divisão do trabalho entre os integrantes
 ├── README.md                       Este arquivo
 └── src/main/java/org/example/

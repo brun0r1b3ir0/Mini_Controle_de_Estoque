@@ -6,7 +6,7 @@ Pessoal, separei o trabalho em 4 partes, uma para cada um. Nosso prazo é **28/1
 
 Vamos fazer um sistema simples em Java (Swing) para controlar o estoque de uma loja.
 
-> **Versão do Java:** estamos usando o **Java 27**. Instalem o JDK 27 e configurem no projeto antes de começar, senão vai dar erro de compilação.
+> **Versão do Java:** estamos usando o **Java 25**. Instalem o JDK 25 e configurem no projeto antes de começar, senão vai dar erro de compilação.
 
 ### Requisitos do enunciado e onde cada um entra
 
